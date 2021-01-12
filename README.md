@@ -10,6 +10,6 @@ Should be a collection of some algorithms implemented using threading or some ta
 	+ Java.
 
 # Searching algorithms
-	+ [Binary search.](https://github.com/SmallCat3699/Threading/blob/main/Binary%20Search/binary_search.cpp)
-	+ [Sequential searh.](https://github.com/SmallCat3699/Threading/tree/main/Sequential%20Search)
++ [Binary search.](https://github.com/SmallCat3699/Threading/blob/main/Binary%20Search/binary_search.cpp)
++ [Sequential searh.](https://github.com/SmallCat3699/Threading/tree/main/Sequential%20Search)
 
